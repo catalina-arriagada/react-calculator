@@ -1,5 +1,5 @@
 .button-container {
-    height: 63px;
+    height: 45px;
     display: flex;
     flex: 1 1; /*expands the 2 buttons with the same width*/
     justify-content: center;
@@ -8,9 +8,9 @@
     font-size: 28px;
     background-color: rgba(25, 201, 245, 0.822);
     color: rgb(14, 10, 10);
-    border-radius: 25px;
+    border-radius: 17px;
     border: 2px solid white;
-    margin: 4px;
+    margin: 10px;
     cursor: pointer;
     user-select: none; /*text cant be selected with mouse*/
 }
